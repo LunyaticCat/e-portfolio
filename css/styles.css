@@ -7,24 +7,11 @@ body {
     margin : auto;
 }
 
-nav {
-    font-weight: bold;
-    height: 50px;
-    display: flex;
-}
-nav div {
-    display: flex;
-    position: relative;
-    padding-left: 4px;
-    width: 100px;
-    align-items: stretch;
-}
-nav div a{
-    align-items: center;
-}
-
-nav div:hover .submenu{
-    display:block;
+audio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
 }
 
 h3{
