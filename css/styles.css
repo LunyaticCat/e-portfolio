@@ -63,9 +63,8 @@ img{
 .logo {
     width: 50px;
     margin: 0 auto;
-    position: sticky;
+    position: relative;
     display: block;
-    float: left;
 }
 
 .footage{
